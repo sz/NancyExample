@@ -1,0 +1,14 @@
+C:\NancyExample\NancyExample\NancyExample\bin\NancyExample.dll.config
+C:\NancyExample\NancyExample\NancyExample\bin\NancyExample.dll
+C:\NancyExample\NancyExample\NancyExample\bin\NancyExample.pdb
+C:\NancyExample\NancyExample\NancyExample\bin\MySql.Data.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Nancy.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Nancy.Hosting.Aspnet.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Simple.Data.Ado.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Simple.Data.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Simple.Data.Mysql.dll
+C:\NancyExample\NancyExample\NancyExample\bin\Nancy.xml
+C:\NancyExample\NancyExample\NancyExample\bin\Nancy.Hosting.Aspnet.xml
+C:\NancyExample\NancyExample\NancyExample\obj\Debug\NancyExample.csprojResolveAssemblyReference.cache
+C:\NancyExample\NancyExample\NancyExample\obj\Debug\NancyExample.dll
+C:\NancyExample\NancyExample\NancyExample\obj\Debug\NancyExample.pdb
