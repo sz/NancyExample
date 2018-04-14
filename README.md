@@ -1,6 +1,6 @@
 # NancyExample
 
-This project is part of a blog post I wrote, you can read it [here](http://blog.bluehathacking.com/blog/2014/09/04/linking-a-cordova-android-application-to-a-database/).
+This project is part of a blog post I wrote, you can read it ~~here~~ (the blog post no longer exists).
 
 This is a Nancyfx web site that will retrieve data from a submitted form and output results from a dataase in JSON format (that can subsequently be displayed in a Cordova Android app).
 
